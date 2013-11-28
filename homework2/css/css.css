@@ -93,7 +93,7 @@ button{
 
 #picturebutton{
     position: absolute;
-    top: 430px;
+    top: 445px;
     right: 411px;
     height:32px;
     width:116px;
@@ -206,7 +206,7 @@ p{
     float: right;
     width: 320px;
     position:absolute;
-    top: 930px;
+    top: 943px;
     left:818px;
 }
 #down-right p{
